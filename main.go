@@ -1,7 +1,7 @@
 package main
 
 import (
-	user "User/user_package"
+	user "github.com/akramov1ch/test_repo/user_package"
 )
 
 
